@@ -28,3 +28,20 @@
 
 }
 
+.weather-icon{
+    background: none;
+    width: 130px;
+    margin: 30px 0px;
+}
+
+.weather p{
+    background: none;
+}
+.temprature{
+    font-size: 80px;
+    color: white;
+}
+.location{
+    color: white;
+    font-size: 40px;
+}
