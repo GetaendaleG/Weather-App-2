@@ -45,3 +45,25 @@
     color: white;
     font-size: 40px;
 }
+.weather-data img{
+    width: 40px;
+    background: none;
+}
+.weather-data p,span{
+    color: white;
+    background: none;
+    display: flex;
+    width: 100%;
+    /* margin-top: 40px; */
+    justify-content: space-between;
+}
+.col{
+    display: flex;
+    background-color: #0B5269;
+    align-items: flex-start;
+    gap: 12px;
+}
+
+.inner-div{
+    background: none;
+}
